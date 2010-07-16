@@ -40,7 +40,7 @@
  *
  *
  * @author Patrick Guiran <pguiran@linagora.com>
- * @license GPLv2
+ * @license GNU GENERAL PUBLIC LICENSE, Version 2
  * @copyright Copyright © 2010, Linagora, Patrick Guiran <pguiran@linagora.com>
  */
 
