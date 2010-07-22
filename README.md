@@ -48,10 +48,7 @@ How to install it ?
 
 * Copy the tiny_mce/plugins/splitblockquote/ directory into the tinyMCE plugins directory
 * Add 'splitblockquote' into the 'plugins' options, when initialize tinyMCE
-    tinyMCE.init({
-            ...
-            plugins : 'spliblockquote,...'
-    });
+    tinyMCE.init({ plugins : 'spliblockquote' });
 
 Credits
 -------
